@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_NARUTO_lI")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "SHAYARAKHAWAB")
 BOT_USERNAME = getenv("BOT_USERNAME", "NAYRA_MUSIC_ROBOT")
 BOT_NAME = getenv("BOT_NAME", "𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩")
 ASSUSERNAME = getenv("ASSUSERNAME", "ll_NARYA_ll")
@@ -22,17 +22,17 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002035485289))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
-OWNER_ID = int(getenv("OWNER_ID", "6530755030"))
+OWNER_ID = int(getenv("OWNER_ID", "6065525851"))
 
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/doraemon890/ANNIE-X-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/NayraXRobot/NARYA_ROBOT")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_P_U_L_ll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://ll_ZIDDI_SHAYAR_ll")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ll_A_C_H_ll")
 
 # Server limits and configurations - These can be set based on your server configurations
